@@ -175,11 +175,11 @@ Want to use hamburbur?
 
 <div align="center">
 
-### [📥 Download the latest release](https://github.com/hamburbur-org/hamburbur/releases/latest)
+### [Download the latest release](https://github.com/hamburbur-org/hamburbur/releases/latest)
 
 or visit
 
-### [🌐 hamburbur.org](https://hamburbur.org/)
+### [hamburbur.org](https://hamburbur.org/)
 
 </div>
 
