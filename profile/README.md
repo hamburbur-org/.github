@@ -88,7 +88,7 @@ It focuses on giving you a powerful modding experience while keeping the actual 
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 [hamburbur](https://github.com/hamburbur-org/hamburbur)
+### [hamburbur](https://github.com/hamburbur-org/hamburbur)
 
 The main Gorilla Tag mod menu.
 
@@ -100,7 +100,7 @@ Clean UI, customization, plugins, utilities, and a growing collection of feature
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [hamburburPluginTemplate](https://github.com/hamburbur-org/hamburburPluginTemplate)
+### [hamburburPluginTemplate](https://github.com/hamburbur-org/hamburburPluginTemplate)
 
 A starting point for developers who want to build their own hamburbur plugins.
 
@@ -112,7 +112,7 @@ Designed to make adding custom mods to hamburbur easier.
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Console](https://github.com/hamburbur-org/Console)
+### [Console](https://github.com/hamburbur-org/Console)
 
 A Gorilla Tag API system designed to be implemented into other mods.
 
@@ -121,7 +121,7 @@ Built for shared systems and integrations across projects.
 </td>
 <td width="50%" valign="top">
 
-### 🔔 [Gorilla Notifications](https://github.com/hamburbur-org/Gorilla-Notifications)
+### [Gorilla Notifications](https://github.com/hamburbur-org/Gorilla-Notifications)
 
 A lightweight notification system for Gorilla Tag mods.
 
@@ -133,14 +133,14 @@ Also used as a dependency by hamburbur.
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [HamburburModManager](https://github.com/hamburbur-org/HamburburModManager)
+### [HamburburModManager](https://github.com/hamburbur-org/HamburburModManager)
 
 A simple mod manager built with Dear ImGui.NET.
 
 </td>
 <td width="50%" valign="top">
 
-### 📷 [Casting Should Be Free](https://github.com/hamburbur-org/Casting-Should-Be-Free)
+### [Casting Should Be Free](https://github.com/hamburbur-org/Casting-Should-Be-Free)
 
 Free Gorilla Tag casting/camera mod for competitive gameplay.
 
