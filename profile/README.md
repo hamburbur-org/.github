@@ -45,15 +45,15 @@
 **hamburbur** is a collection of Gorilla Tag mods and tools built around making modding cleaner, easier, and more enjoyable.
 
 No unnecessary clutter.  
-No twenty menus inside twenty more menus.  
-Just stuff that works.
+No slop.
+Just high quality stuff that people want.
 
 <br>
 
-[**🌐 Website**](https://hamburbur.org/) ・
-[**📦 Download**](https://github.com/hamburbur-org/hamburbur/releases/latest) ・
-[**💬 Discord**](https://hamburbur.org/discord) ・
-[**🧩 Plugin Template**](https://github.com/hamburbur-org/hamburburPluginTemplate)
+[**Website**](https://hamburbur.org/) ・
+[**Download**](https://github.com/hamburbur-org/hamburbur/releases/latest) ・
+[**Discord**](https://hamburbur.org/discord) ・
+[**Plugin Template**](https://github.com/hamburbur-org/hamburburPluginTemplate)
 
 </div>
 
